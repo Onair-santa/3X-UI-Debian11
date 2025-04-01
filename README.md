@@ -3,19 +3,7 @@
 Fork for Debian11 and Ubuntu20
 Original theme for Debian12 and Ubuntu22 (not work in Debian11)- https://github.com/MHSanaei/3x-ui
 
-#### 💠  Ensure that the `sudo` and `wget` packages are installed on your system:
-
-```
-apt install -y sudo wget
-```
-
-#### 💠 Root Access is Required. If the user is not root, first run:
-
-```
-sudo -i
-```
-
-#### 💠 Then:
+#### 💠 Install:
 
 ```
 wget https://github.com/Onair-santa/3X-UI-Debian11/releases/download/2.4.1/x-ui-linux-amd64.tar.gz
@@ -30,5 +18,8 @@ systemctl daemon-reload
 systemctl enable x-ui
 systemctl restart x-ui
 ```
+
+Terminal
+- `x-ui`  change port, login, pass, webpath
 URL
-- `http://ip:port/`
+- `http://ip:port/*webpath*`

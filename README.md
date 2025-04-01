@@ -1,6 +1,8 @@
 ## <a href="#"><img src="https://github.com/vpnhood/VpnHood/wiki/images/logo-linux.png" width="32" height="32"></a> 3X-UI (Debian11, Ubuntu20)
 ### 3X-UI - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess & Vless & Trojan & ShadowSocks & Wireguard)
-Fork for Debian11 and Ubuntu20
+
+Fork for Debian11 and Ubuntu20.
+
 Original theme for Debian12 and Ubuntu22 (not work in Debian11)- https://github.com/MHSanaei/3x-ui
 
 #### 💠 Install:

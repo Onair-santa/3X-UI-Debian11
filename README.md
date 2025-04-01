@@ -1,4 +1,4 @@
-## <a href="#"><img src="https://github.com/vpnhood/VpnHood/wiki/images/logo-linux.png" width="32" height="32"></a>(Debian11, Ubuntu20) 3X-UI Debian11
+## <a href="#"><img src="https://github.com/vpnhood/VpnHood/wiki/images/logo-linux.png" width="32" height="32"></a> 3X-UI (Debian11, Ubuntu20)
 ### 3X-UI - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess & Vless & Trojan & ShadowSocks & Wireguard)
 
 #### 💠  Ensure that the `sudo` and `wget` packages are installed on your system:

@@ -19,8 +19,8 @@ systemctl enable x-ui
 systemctl restart x-ui
 ```
 
-Terminal
+💠 Terminal
 - `x-ui`  change port, login, pass, webpath
 
-URL
+💠 URL
 - `http://ip:port/*webpath*`
